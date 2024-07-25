@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Feature" parallel="false">
+    <test name="UnitLevelTest">
+        <parameter name="param" value="I am beforeMethod" />
+        <classes>
+            <class name="fpoly.TestClass" />
+        </classes>
+    </test>
+</suite>
