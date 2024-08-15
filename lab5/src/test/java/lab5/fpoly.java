@@ -11,10 +11,11 @@ public class fpoly {
 	@Test
 	public void verifyHomepageTitle() {
 // TODO Auto-generated method stub
-		System.setProperty("webdriver.edge.driver", "C:\\Users\\dinhh\\Downloads\\edgedriver_win64\\msedgedriver.exe");
+		System.setProperty("webdriver.edge.driver",
+				"C:\\Users\\dinhh\\OneDrive\\Desktop\\ktnc\\advance_test\\edgedriver_win64\\msedgedriver.exe");
 		WebDriver driver = new EdgeDriver();
 		String url = "http://lms.poly.edu.vn/";
-		String title_website = "Hệ thống quản lý trị học tập Fpt Polytechnic";
+		String title_website = "FPT Polytechnic";
 		String title_expected = "";
 		driver.get(url);
 		title_expected = driver.getTitle();

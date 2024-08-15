@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-03T12:37:27 ICT" name="Default suite" finished-at="2024-08-03T12:37:41 ICT" duration-ms="14560">
+    <groups>
+    </groups>
+    <test started-at="2024-08-03T12:37:27 ICT" name="Default test" finished-at="2024-08-03T12:37:41 ICT" duration-ms="14560">
+      <class name="lab8.TestSauceDemo">
+        <test-method is-config="true" signature="setup()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:27 ICT" name="setup" finished-at="2024-08-03T12:37:30 ICT" duration-ms="2661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:30 ICT" name="before" finished-at="2024-08-03T12:37:32 ICT" duration-ms="2049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="checkTitle()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:32 ICT" name="checkTitle" finished-at="2024-08-03T12:37:32 ICT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:32 ICT" name="afterMethod" finished-at="2024-08-03T12:37:32 ICT" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:32 ICT" name="before" finished-at="2024-08-03T12:37:32 ICT" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testLogin()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:32 ICT" name="testLogin" finished-at="2024-08-03T12:37:32 ICT" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:32 ICT" name="afterMethod" finished-at="2024-08-03T12:37:32 ICT" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:32 ICT" name="before" finished-at="2024-08-03T12:37:32 ICT" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testLoginerror_user()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:32 ICT" name="testLoginerror_user" finished-at="2024-08-03T12:37:32 ICT" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginerror_user -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:32 ICT" name="afterMethod" finished-at="2024-08-03T12:37:33 ICT" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:33 ICT" name="before" finished-at="2024-08-03T12:37:33 ICT" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testLoginlocked_out_user()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:33 ICT" name="testLoginlocked_out_user" finished-at="2024-08-03T12:37:33 ICT" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginlocked_out_user -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:33 ICT" name="afterMethod" finished-at="2024-08-03T12:37:33 ICT" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:33 ICT" name="before" finished-at="2024-08-03T12:37:33 ICT" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testLoginperformance_glitch_user()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:33 ICT" name="testLoginperformance_glitch_user" finished-at="2024-08-03T12:37:38 ICT" duration-ms="5267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginperformance_glitch_user -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:38 ICT" name="afterMethod" finished-at="2024-08-03T12:37:38 ICT" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:38 ICT" name="before" finished-at="2024-08-03T12:37:38 ICT" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testLoginproblem_user()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:38 ICT" name="testLoginproblem_user" finished-at="2024-08-03T12:37:39 ICT" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginproblem_user -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:39 ICT" name="afterMethod" finished-at="2024-08-03T12:37:39 ICT" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:39 ICT" name="before" finished-at="2024-08-03T12:37:39 ICT" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testLoginvisual_user()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:39 ICT" name="testLoginvisual_user" finished-at="2024-08-03T12:37:39 ICT" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginvisual_user -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:39 ICT" name="afterMethod" finished-at="2024-08-03T12:37:39 ICT" duration-ms="147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:39 ICT" name="before" finished-at="2024-08-03T12:37:39 ICT" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testWithWrongPassworderror_user()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:39 ICT" name="testWithWrongPassworderror_user" finished-at="2024-08-03T12:37:39 ICT" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithWrongPassworderror_user -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:39 ICT" name="afterMethod" finished-at="2024-08-03T12:37:40 ICT" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:40 ICT" name="before" finished-at="2024-08-03T12:37:40 ICT" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testWithWrongPasswordlocked_out_user()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:40 ICT" name="testWithWrongPasswordlocked_out_user" finished-at="2024-08-03T12:37:40 ICT" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithWrongPasswordlocked_out_user -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:40 ICT" name="afterMethod" finished-at="2024-08-03T12:37:40 ICT" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:40 ICT" name="before" finished-at="2024-08-03T12:37:40 ICT" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testWithWrongPasswordperformance_glitch_user()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:40 ICT" name="testWithWrongPasswordperformance_glitch_user" finished-at="2024-08-03T12:37:40 ICT" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithWrongPasswordperformance_glitch_user -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:40 ICT" name="afterMethod" finished-at="2024-08-03T12:37:40 ICT" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:40 ICT" name="before" finished-at="2024-08-03T12:37:40 ICT" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testWithWrongPasswordproblem_user()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:40 ICT" name="testWithWrongPasswordproblem_user" finished-at="2024-08-03T12:37:40 ICT" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithWrongPasswordproblem_user -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:40 ICT" name="afterMethod" finished-at="2024-08-03T12:37:41 ICT" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:41 ICT" name="before" finished-at="2024-08-03T12:37:41 ICT" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testWithWrongPasswordstandarduser()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:41 ICT" name="testWithWrongPasswordstandarduser" finished-at="2024-08-03T12:37:41 ICT" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithWrongPasswordstandarduser -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:41 ICT" name="afterMethod" finished-at="2024-08-03T12:37:41 ICT" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="before()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:41 ICT" name="before" finished-at="2024-08-03T12:37:41 ICT" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="testWithWrongPasswordvisual_user()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:41 ICT" name="testWithWrongPasswordvisual_user" finished-at="2024-08-03T12:37:41 ICT" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithWrongPasswordvisual_user -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:41 ICT" name="afterMethod" finished-at="2024-08-03T12:37:41 ICT" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:lab8.TestSauceDemo@28261e8e]" started-at="2024-08-03T12:37:41 ICT" name="tearDown" finished-at="2024-08-03T12:37:41 ICT" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- lab8.TestSauceDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

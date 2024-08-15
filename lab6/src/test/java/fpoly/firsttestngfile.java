@@ -8,13 +8,14 @@ import org.testng.annotations.*;
 
 public class firsttestngfile {
 	public String baseUrl = "https://lms.poly.edu.vn//"; // http://lms.poly.
-	String driverPath = "C:\\Users\\dinhh\\Downloads\\edgedriver_win64\\msedgedriver.exe";
+	String driverPath = "C:\\Users\\dinhh\\OneDrive\\Desktop\\ktnc\\advance_test\\edgedriver_win64\\msedgedriver.exe";
 	public WebDriver driver;
 
 	@BeforeTest
 	public void launchBrowser() {
 		System.out.println("launching edge browser");
 		System.setProperty("webdriver.edge.driver", driverPath);
+
 		driver = new EdgeDriver();
 		driver.get(baseUrl);
 	}

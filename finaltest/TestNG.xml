@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Feature" parallel="false">
+	<test name="UnitLevelTest">
+		<classes>
+			<class name="finaltest.Yep" />
+			<class name="finaltest.TuoiTre" />
+		</classes>
+	</test>
+</suite>

@@ -2,12 +2,17 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\dinhh\OneDrive\Desktop\ktnc\advance_test\lab4_jar"/>
+			<item value="C:\Users\dinhh\OneDrive\Desktop\ktnc\advance_test\lab7\lab7\src\main\java\lab7\Main.java"/>
+			<item value="C:\Users\dinhh\OneDrive\Desktop\ktnc\advance_test\lab7\src"/>
+			<item value="C:\Users\dinhh\OneDrive\Desktop\ktnc\advance_test\lab6"/>
 			<item value="C:\oi\lab5"/>
 			<item value="C:\oi\huydqpc07859_lab2"/>
 			<item value="C:\oi\huydqpc07859_lab1"/>
 			<item value="C:\oi\lab1"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="e"/>
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
 			<item value="[artifactId]-[version]"/>
@@ -48,16 +53,25 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="finaltest"/>
+			<item value="test"/>
+			<item value="lab7_"/>
+			<item value="lab8"/>
+			<item value="lab7"/>
 			<item value="lab6"/>
-			<item value="lab5"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="finaltest"/>
+			<item value="test"/>
+			<item value="lab7_"/>
+			<item value="lab8"/>
+			<item value="lab7"/>
 			<item value="lab6"/>
-			<item value="lab5"/>
 		</list>
 		<list key="projectNameTemplate">
+			<item value="e"/>
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
 			<item value="[artifactId]-[version]"/>
@@ -75,15 +89,29 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="lab8"/>
 			<item value="lab4_maven"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="lab8"/>
 			<item value="lab4_maven"/>
 		</list>
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
 		</list>
 	</section>
 </section>
